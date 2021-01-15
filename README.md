@@ -1,5 +1,5 @@
-﻿PokeFontDS
-==============
+### This project has been superseded by [NintyFont](https://github.com/TheFearsomeDzeraora/NintyFont)
+# PokeFontDS
 PokeFontDS is a font editor for DS Pokemon games(D/P/Pt/HG/SS/B/W/B2/W2).
 
 The program was originally developed by evco1, but the only existing and the most recent version(2.2.0.0) had a (very) little bug, which prevented it from loading fonts from Gen 4 Pokemon games.
